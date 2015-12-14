@@ -6,6 +6,8 @@
 //  Copyright (c) 2015 Appcoda. All rights reserved.
 //
 
+//Changes done in git repo
+
 #import <Foundation/Foundation.h>
 
 @interface BlockManager : NSObject
