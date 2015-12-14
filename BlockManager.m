@@ -6,6 +6,8 @@
 //  Copyright (c) 2015 Appcoda. All rights reserved.
 //
 
+// Changes done in maven project
+
 #import "BlockManager.h"
 
 @implementation BlockManager
